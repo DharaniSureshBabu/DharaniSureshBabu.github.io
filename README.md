@@ -21,9 +21,20 @@ Thank you for dropping by my repository of innovation and growth. Let's sow the 
 I specialize in crafting deep learning models, crop simulation modeling, spatial analysis, and computer vision techniques. My mission is to devise precision agricultural solutions that align with the industry's best practices and sustainability goals.
 
 ---
-## Projects
+## 🌱 🤖Projects
 
-... (Your projects here) ...
+1. **How Can We Foresee the Unfolding Phases of Cranberries?**  
+   _Cranberry Growth Stages Prediction using Advanced Deep Learning Models_  
+   Leveraging deep learning to forecast the growth stages of cranberries, enhancing decision-making throughout their cultivation journey.
+
+2. **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?**  
+   _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_  
+   Utilizing multispectral remote sensing to detect stress signals in cranberry bushes and respond with precise nitrogen fertilizer recommendations.
+
+3. **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?**  
+   _Developing a Web App for Informed Harvest Decisions in Cranberries_  
+   This project offers a digital tool to cranberry growers, delivering data-driven insights to ensure each berry is harvested at its peak, securing optimal freshness and quality.
+
 
 ## 🎓 Education
 
@@ -62,11 +73,11 @@ Innovated algorithms and digital image processing programs for agricultural appl
 
 ## 🏅 International Awards
 
-****Gerald O. Mott Award in Crop Science,** March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
+- ****Gerald O. Mott Award in Crop Science,** March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
 Science Society of America for meritorious graduate student award for pursuing advanced degrees in crop science disciplines, recognizing 
 accomplishments in academics, research, leadership, and service.
 
-**Doreen Margaret Mashler Award – Best Researcher, April 2016,** awarded by the United Nations Organization’s International Crops Research 
+- **Doreen Margaret Mashler Award – Best Researcher, April 2016,** awarded by the United Nations Organization’s International Crops Research 
 Institute for the Semi-Arid Tropics (ICRISAT), India, recognized for the development of phenotyping and modeling tools for priority setting in agricultural 
 processes to achieve sustainability
 
