@@ -121,6 +121,3 @@ For collaborations or inquiries, please reach out:
 **LinkedIn**: [dharanisuresh](https://www.linkedin.com/in/dharanisuresh)  
 
 ---
-
-*(This CV is a living document, capturing the growth and milestones of my journey in the ever-evolving field of digital agriculture.)*
-
