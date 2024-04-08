@@ -111,7 +111,7 @@ processes to achieve sustainability
 - Computer Vision
 - GIS and Remote Sensing
 - Data Curation and Visualization
-- Clifton Strength assessment: Achiever | Strategic | Learner | Focus | Relator 
+- Clifton Strength assessment: Achiever, Strategic, Learner, Focus, Relator 
 
 ---
 
