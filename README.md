@@ -1,10 +1,9 @@
-# Welcome to Dharani Suresh Babu's Digital Agriculture Space
+# Welcome to Dharani's Digital Agriculture Space
 
 <img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" />
 
 ## 🌿 Greetings Fellow Agritech Enthusiasts!
-Hello there! I'm Dharani, As a dedicated researcher in digital agriculture, I am passionate about the intersection where data science meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. Join me in exploring cutting-edge innovations that nurture our crops and communities and this is where technology meets the earth—my corner for digital agriculture innovation. Here, you'll discover a blend of agronomy, data science, and the latest tech trends that are shaping the future of farming.
-
+Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where data science meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. Join me in exploring cutting-edge innovations that nurture our crops and communities. This is where technology meets the earth—my corner for digital agriculture innovation. Here, you'll discover a blend of agronomy, data science, and the latest tech trends that are shaping the future of farming.
 
 ## Cultivating Growth with Technology
 
