@@ -16,11 +16,6 @@ Thank you for dropping by my repository of innovation and growth. Let's sow the 
 
 ---
 
-
-
-
----
-
 ## 👩‍🔬 About Me
 
 I specialize in crafting deep learning models, crop simulation modeling, spatial analysis, and computer vision techniques. My mission is to devise precision agricultural solutions that align with the industry's best practices and sustainability goals.
