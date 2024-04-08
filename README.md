@@ -60,11 +60,15 @@ Innovated algorithms and digital image processing programs for agricultural appl
 
 ---
 
-## 🏅 Awards & Honors
+## 🏅 International Awards
 
-- ASA-CSSA-SSSA Peer Review Mentorship Program, Mar 2024
-- Bayer Exemplary Mentee Spotlight, Dec 2023
-- Popular Vote Award – 2023 Plant Sciences Symposium, Nov 2023
+****Gerald O. Mott Award in Crop Science,** March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
+Science Society of America for meritorious graduate student award for pursuing advanced degrees in crop science disciplines, recognizing 
+accomplishments in academics, research, leadership, and service.
+
+**Doreen Margaret Mashler Award – Best Researcher, April 2016,** awarded by the United Nations Organization’s International Crops Research 
+Institute for the Semi-Arid Tropics (ICRISAT), India, recognized for the development of phenotyping and modeling tools for priority setting in agricultural 
+processes to achieve sustainability
 
 ---
 
@@ -95,12 +99,13 @@ Innovated algorithms and digital image processing programs for agricultural appl
 - Computer Vision
 - GIS and Remote Sensing
 - Data Curation and Visualization
+- Clifton Strength assessment: Achiever | Strategic | Learner | Focus | Relator 
 
 ---
 
 ## 📞 Connect With Me
 
-For collaborations, inquiries, or just to say hello, please reach out:
+For collaborations or inquiries, please reach out:
 **LinkedIn**: [dharanisuresh](https://www.linkedin.com/in/dharanisuresh)  
 
 ---
