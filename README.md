@@ -6,4 +6,4 @@ Personal Portfolio
 
 Welcome to my portfolio! Here you'll find information about me, my projects, and how to get in touch.
 
-<img src="/images/Dharani_Headshot_photo.jpg" alt="Dharani's Headshot" width="250" align="right" />
+<img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" />
