@@ -1,8 +1,9 @@
-- # Welcome to My Digital Agriculture Space
+# Welcome to My Digital Agriculture Space
 
 <img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" />
 
 Hello there! I'm Dharani, and this is where technology meets the earth—my corner for digital agriculture innovation. Here, you'll discover a blend of agronomy, data science, and the latest tech trends that are shaping the future of farming.
+
 
 ## Cultivating Growth with Technology
 
