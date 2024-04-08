@@ -87,6 +87,7 @@ processes to achieve sustainability
 
 - "Remote Sensing for Cranberries: A Non-Destructive Early Warning System" - Oral presentation, Wisconsin Cranberry School, 2024.
 - Mura J. D. & Babu D. S. (2023). "The Rise of Early Career Women in Agricultural Science: Overcoming Barriers and Shaping the Future", CSA News.
+  
 ---
 
 ## 🎖 Certifications
