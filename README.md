@@ -33,7 +33,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 <p><strong>3. Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?</strong><br>
    <em>Developing Web App for Harvest Decisions in Cranberry to Help Cranberry Growers</em><br>
    Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best.
-   <img src="/images/APP%20GITHUB.jpg" alt="Web App for Harvest Decisions" width="20" align="right"/>
+   <img src="/images/APP%20GITHUB.jpg" alt="Web App for Harvest Decisions" width="200" align="right"/>
 </p>
 
 ## 🎓 Education
