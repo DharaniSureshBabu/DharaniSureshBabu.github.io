@@ -24,18 +24,21 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
    informed decisions throughout their cultivation cycle.
   <p>
   <img src="/images/GDD.jpg" alt="Cranberry Growth Prediction" width="250" align="right"/>
-  Exploring deep learning to forecast the growth stages of cranberries, enhancing decision-making throughout their cultivation journey.
 </p>
 
 3. **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?**  
    _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_  
   Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations.
-![Stress Detection in Cranberries](/images/Media1.mp4) 
+<p>
+  <img src="/images/Media1.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
+</p>
 
 5. **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?**  
   _Developing Web App for Harvest Decisions in Cranberry to Help Cranberry Growers_
 Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best.
-![Web App for Harvest Decisions](/images/APP%20GITHUB.jpg)  
+<p>
+  <img src="/images/APP%20GITHUB.jpg" alt="Web App for Harvest Decisions" width="250" align="right"/>
+</p>
 
 ## 🎓 Education
 
