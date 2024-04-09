@@ -18,30 +18,10 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 ---
 ## 🌱 🤖Projects
 
-<p><strong>1. How Can We Foresee the Unfolding Phases of Cranberries?</strong><br>
-   <em>Cranberry Growth Stages Prediction using Advanced Deep Learning Models</em><br>
-   Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and informed decisions throughout their cultivation cycle.
-   <img src="/images/GDD.jpg" alt="Cranberry Growth Prediction" width="100" align="right"/>
-</p>
-
-<p><strong>2. What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?</strong><br>
-   <em>Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing</em><br>
-   Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations.
-       <img src="/images/THUMBNAILREMOTESENSING.jpg" alt="Watch the video" width="100" align="right"/>
-</p>
-
-<p><strong>3. Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?</strong><br>
-   <em>Developing Web App for Harvest Decisions in Cranberry to Help Cranberry Growers</em><br>
-   Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best.
-   <img src="/images/APPGITHUB.jpg" alt="Web App for Harvest Decisions" width="100" align="right"/>
-</p>
-
-### 🌾 Projects
-
-| **How Can We Foresee the Unfolding Phases of Cranberries?** <br> _Cranberry Growth Stages Prediction using Advanced Deep Learning Models_ <br> Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and informed decisions throughout their cultivation cycle. | <img src="/images/GDD.jpg" width="50%" alt="Cranberry Growth Prediction"/> |
+| **How Can We Foresee the Unfolding Phases of Cranberries?** <br> _Cranberry Growth Stages Prediction using Advanced Deep Learning Models_ <br> Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and informed decisions throughout their cultivation cycle. | <img src="/images/GDD.jpg" width="75%" alt="Cranberry Growth Prediction"/> |
 |:---|:---:|
-| **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?** <br> _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_ <br> Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations. | <img src="/images/THUMBNAILREMOTESENSING.jpg" width="50%" alt="Stress Detection in Cranberries"/> |
-| **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?** <br> _Developing a Web App for Harvest Decisions in Cranberry to Help Cranberry Growers_ <br> Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best. | <img src="/images/APPGITHUB.jpg" width="50%" alt="Web App for Harvest Decisions"/> |
+| **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?** <br> _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_ <br> Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations. | <img src="/images/THUMBNAILREMOTESENSING.jpg" width="70%" alt="Stress Detection in Cranberries"/> |
+| **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?** <br> _Developing a Web App for Harvest Decisions in Cranberry to Help Cranberry Growers_ <br> Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best. | <img src="/images/APPGITHUB.jpg" width="30%" alt="Web App for Harvest Decisions"/> |
 
 ## 🎓 Education
 
