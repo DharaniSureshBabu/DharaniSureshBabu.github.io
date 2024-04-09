@@ -18,8 +18,6 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 ---
 ## 🌱 🤖Projects
 
-## 🌱 🤖 Projects
-
 <p><strong>1. How Can We Foresee the Unfolding Phases of Cranberries?</strong><br>
    <em>Cranberry Growth Stages Prediction using Advanced Deep Learning Models</em><br>
    Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and informed decisions throughout their cultivation cycle.
@@ -29,7 +27,9 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 <p><strong>2. What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?</strong><br>
    <em>Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing</em><br>
    Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations.
-   <img src="/images/THUMBNAIL REMOTE SENSING.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
+   <a href="URL-to-Media1-video">
+       <img src="/images/THUMBNAIL REMOTE SENSING.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
+   </a>
 </p>
 
 <p><strong>3. Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?</strong><br>
