@@ -64,7 +64,7 @@ Innovated algorithms and digital image processing programs for agricultural appl
 
 ## 🏅 International Awards
 
-- ****Gerald O. Mott Award in Crop Science,** March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
+- **Gerald O. Mott Award in Crop Science,** March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
 Science Society of America for meritorious graduate student award for pursuing advanced degrees in crop science disciplines, recognizing 
 accomplishments in academics, research, leadership, and service.
 
