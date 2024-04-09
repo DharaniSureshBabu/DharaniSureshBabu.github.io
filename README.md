@@ -3,7 +3,7 @@
 <img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" />
 
 ## 🌿 Greetings Fellow Agritech Enthusiasts!
-Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where information technology meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. Join me in exploring cutting-edge innovations that nurture our crops and communities. Here, you will be introduced to a harmonious fusion of agronomy and information technology, a reflection of my commitment to blending traditional farming wisdom with modern technological advancements in my work.
+Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where information technology meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. 
 
 ## Cultivating Growth with Technology
 
@@ -11,7 +11,7 @@ Agriculture is not just about sowing seeds; it's about growing ideas and harvest
 
 From precision farming to sustainable agri-tech, I am passionate about leveraging technology to enhance productivity, profitability, and environmental stewardship in the agricultural sector. Explore my projects, insights, and the journey of integrating cutting-edge tech into the roots of agriculture.
 
-Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together!
+Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together! Join me in exploring cutting-edge innovations that nurture our crops and communities. Here, you will be introduced to a harmonious fusion of agronomy and information technology, a reflection of my commitment to blending traditional farming wisdom with modern technological advancements in my work.
 
 ---
 
