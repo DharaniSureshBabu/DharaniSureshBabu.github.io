@@ -27,8 +27,8 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 <p><strong>2. What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?</strong><br>
    <em>Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing</em><br>
    Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations.
-   <a href="URL-to-Media1-video">
-       <img src="/images/THUMBNAIL REMOTE SENSING.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
+  <a href="/images/Media1.mp4" target="_blank">
+       <img src="/images/THUMBNAIL REMOTE SENSING.jpg" alt="Watch the video" width="250" align="right"/>
    </a>
 </p>
 
