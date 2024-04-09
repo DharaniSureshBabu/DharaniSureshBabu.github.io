@@ -74,11 +74,18 @@ processes to achieve sustainability
 
 ---
 
-## 📚 Publications & Presentations
+## 📚 Publications
 
-- "Remote Sensing for Cranberries: A Non-Destructive Early Warning System" - Oral presentation, Wisconsin Cranberry School, 2024.
-- Mura J. D. & Babu D. S. (2023). "The Rise of Early Career Women in Agricultural Science: Overcoming Barriers and Shaping the Future", CSA News.
-  
+- Mura, J. D., & Babu, D. S. (2023). The Rise of Early Career Women in Agricultural Science: Overcoming Barriers and Shaping the Future. CSA News, 68(12), 29-32.
+
+ - Suresh Babu, D., Chambers, N., Jonjak, A., Alpers, R., Atucha, A., & Mura, J. D. (2023). Multispectral imaging for cranberry production improvement. Cranberry Management Journal.
+
+- S. Dharani, C. Igathinathane, P. Flores. Overview of application of UAS in agriculture and an example plant stand count application. NGPRL USDA-ARS INTEGRATOR 2018 (www.ars.usda.gov/plains-area/mandan-nd/ngprl/docs/northern-great-plains-integrator/)
+
+- S. Sunoj, S.N. Subhashree, S. Dharani, C. Igathinathane, J. G. Franco, R. E. Mallinger, J. R. Prasifka, D. Archer. Sunflower floral dimension measurements using digital image processing. (Journal of Computers and Electronics in Agriculture).
+
+- H. Amir, V. Vadez, A. Soltani, P. Gaur, A. Whitbread, S. Dharani, M. K. Gumma, M. Diancoumba, J. Kholová. Characterization of the main chickpea cropping systems in India using a yield gap analysis approach. (Journal of Field crops Research).
+
 ---
 
 ## 🎖 Certifications
