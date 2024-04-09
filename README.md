@@ -11,7 +11,9 @@ Agriculture is not just about sowing seeds; it's about growing ideas and harvest
 
 From precision farming to sustainable agri-tech, I am passionate about leveraging technology to enhance productivity, profitability, and environmental stewardship in the agricultural sector. Explore my projects, insights, and the journey of integrating cutting-edge tech into the roots of agriculture.
 
-Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together! Join me in exploring cutting-edge innovations that nurture our crops and communities. Here, you will be introduced to a harmonious fusion of agronomy and information technology, a reflection of my commitment to blending traditional farming wisdom with modern technological advancements in my work.
+Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together! 
+
+Join me in exploring cutting-edge innovations that nurture our crops and communities. Here, you will be introduced to a harmonious fusion of agronomy and information technology, a reflection of my commitment to blending traditional farming wisdom with modern technological advancements in my work.
 
 ---
 
