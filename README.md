@@ -30,7 +30,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
    _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_  
   Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations.
 <p>
-  <img src="/images/Media1.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
+  <img src="/images/THUMBNAIL REMOTE SENSING.jpg" alt="Stress Detection in Cranberries" width="250" align="right"/>
 </p>
 
 5. **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?**  
