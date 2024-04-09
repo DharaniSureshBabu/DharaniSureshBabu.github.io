@@ -22,9 +22,9 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
    _Cranberry Growth Stages Prediction using Advanced Deep Learning Models_  
    Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and 
    informed decisions throughout their cultivation cycle.
-  <p>
+ 
   <img src="/images/GDD.jpg" alt="Cranberry Growth Prediction" width="250" align="right"/>
-</p>
+
 
 3. **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?**  
    _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_  
