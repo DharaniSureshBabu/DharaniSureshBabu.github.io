@@ -3,7 +3,7 @@
 <img src="images/Dharani_Headshot_photo - Copy.jpg" alt="Dharani's Headshot" width="250" align="right" />
 
 ## 🌿 Greetings Fellow Agritech Enthusiasts!
-Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where information technology meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. 
+Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where information technology meets the art of farming. With over 9 years of research and hands-on experience, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. I specialize in crafting deep learning models, crop simulation modeling, spatial analysis, and computer vision techniques. My mission is to devise precision agricultural solutions that align with the industry's best practices and sustainability goals.
 
 ## Cultivating Growth with Technology
 
@@ -14,12 +14,6 @@ From precision farming to sustainable agri-tech, I am passionate about leveragin
 Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together! 
 
 Join me in exploring cutting-edge innovations that nurture our crops and communities. Here, you will be introduced to a harmonious fusion of agronomy and information technology, a reflection of my commitment to blending traditional farming wisdom with modern technological advancements in my work.
-
----
-
-## 👩‍🔬 About Me
-
-I specialize in crafting deep learning models, crop simulation modeling, spatial analysis, and computer vision techniques. My mission is to devise precision agricultural solutions that align with the industry's best practices and sustainability goals.
 
 ---
 ## 🌱 🤖Projects
