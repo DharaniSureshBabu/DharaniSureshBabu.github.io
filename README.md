@@ -123,5 +123,4 @@ For collaborations or inquiries, please reach out:
 
 ---
 <embed type="text/html" src="images/uwm.html" width="600" height="600">
-
 ---
