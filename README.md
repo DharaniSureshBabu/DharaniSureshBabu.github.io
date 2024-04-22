@@ -30,7 +30,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 ## 📚 ESIIL Data Short Course - Second Assignment
 ---
 
-- [Get Started with Open Reproducible Science!](Get%20Started%20with%20Open%20Reproducible%20Science!.html)
+- [Get Started with Open Reproducible Science!](madison_timeseries.html)
 
 ---
 
