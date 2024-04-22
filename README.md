@@ -30,7 +30,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 ## 📚 ESIIL Data Short Course - Second Assignment
 ---
 
-- [Madison Time Series Assignment!](html/madison_timeseries.html)
+- [Madison Time Series MD Assignment!](md/madison_timeseries.md)
 
 ---
 
