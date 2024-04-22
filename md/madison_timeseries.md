@@ -416,7 +416,7 @@ madison_df.plot()
 
 
     
-![png](madison_timeseries_files/madison_timeseries_19_1.png)
+![png](madison_timeseries_19_1.png)
     
 
 
@@ -439,7 +439,7 @@ madison_df.plot(
 
 
     
-![png](madison_timeseries_files/madison_timeseries_20_1.png)
+![png](madison_timeseries_20_1.png)
     
 
 
@@ -1330,7 +1330,7 @@ plt.show()  # Display the plots
 
 
     
-![png](madison_timeseries_files/madison_timeseries_32_0.png)
+![png](madison_timeseries_32_0.png)
     
 
 
