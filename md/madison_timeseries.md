@@ -29,14 +29,13 @@ The Global Historical Climatology Network - Daily (GHCNd) is maintained by the N
 
 Citation: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012d: Global Historical Climatology Network - Daily (GHCN-Daily), Version 3. NOAA National Climatic Data Center. [http://doi.org/10.7289/V5D21VHZ](http://doi.org/10.7289/V5D21VHZ).
 ```
-
+---------------------
+**Programming Part Begins**
+---------------------
 **Renamed as madison_timeseries**
-
-
 ```python
 import pandas as pd
 ```
-
 
 ```python
 uwm_url = (
@@ -47,40 +46,7 @@ uwm_url = (
     'Location=1&units=metric')
 uwm_url
 ```
-
-
-
-
     'https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&dataTypes=TOBS,PRCP&stations=USC00470273&startDate=1971-10-01&endDate=2024-04-05&includeStationName=true&includeStationLocation=1&units=metric'
-
-
-
-
-```python
-# DO NOT MODIFY THIS TEST CELL
-resp_url = _
-points = 0
-
-if type(resp_url)==str:
-    points += 3
-    print('\u2705 Great work! You correctly called your url variable.')
-else:
-    print('\u274C Oops - your url variable was not called correctly.')
-
-if len(resp_url)==218:
-    points += 3
-    print('\u2705 Great work! Your url is the correct length.')
-else:
-    print('\u274C Oops - your url variable is not the correct length.')
-
-print('You earned {} of 6 points for defining a url variable'.format(points))
-```
-
-    ✅ Great work! You correctly called your url variable.
-    ❌ Oops - your url variable is not the correct length.
-    You earned 3 of 6 points for defining a url variable
-
-
 
 ```python
 madison_df = pd.read_csv(
@@ -245,38 +211,12 @@ madison_df
 </div>
 
 
-
-
 ```python
-# DO NOT MODIFY THIS TEST CELL
-tmax_df_resp = _
-points = 0
-
-if isinstance(tmax_df_resp, pd.DataFrame):
-    points += 1
-    print('\u2705 Great work! You called a DataFrame.')
-else:
-    print('\u274C Oops - make sure to call your DataFrame for testing.')
-
-print('You earned {} of 2 points for downloading data'.format(points))
-```
-
-    ✅ Great work! You called a DataFrame.
-    You earned 1 of 2 points for downloading data
-
-
-
-```python
-# Check that the data was imported into a pandas DataFrame
+# Data was imported into a pandas DataFrame
 type(madison_df)
 ```
 
-
-
-
     pandas.core.frame.DataFrame
-
-
 
 
 ```python
@@ -376,32 +316,9 @@ madison_df
 </div>
 
 
-
-
-```python
-# DO NOT MODIFY THIS TEST CELL
-tmax_df_resp = _
-points = 0
-
-summary = [round(val, 2) for val in tmax_df_resp.mean().values]
-if summary == [0.05, 54.53]:
-    points += 4
-    print('\u2705 Great work! You correctly downloaded data.')
-else:
-    print('\u274C Oops - your data are not correct.')
-print('You earned {} of 5 points for downloading data'.format(points))
-```
-
-    ❌ Oops - your data are not correct.
-    You earned 0 of 5 points for downloading data
-
-
 ------------------------------------------------------------------------
 
-## Plot the precpitation column (PRCP) vs time to explore the data
-
-Plotting in Python is easy, but not quite this easy:
-
+## Plotting the precpitation column (PRCP) vs time to explore the data
 
 ```python
 madison_df.plot()
@@ -565,32 +482,6 @@ madison_df
 
 
 
-
-```python
-# DO NOT MODIFY THIS TEST CELL
-tmax_df_resp = _
-points = 0
-
-if isinstance(tmax_df_resp, pd.DataFrame):
-    points += 1
-    print('\u2705 Great work! You called a DataFrame.')
-else:
-    print('\u274C Oops - make sure to call your DataFrame for testing.')
-
-summary = [round(val, 4) for val in tmax_df_resp.mean().values]
-if summary == [0.0543, 54.5313, 12.5174]:
-    points += 4
-    print('\u2705 Great work! You correctly converted to Celcius.')
-else:
-    print('\u274C Oops - your data are not correct.')
-print('You earned {} of 5 points for converting to Celcius'.format(points))
-```
-
-    ✅ Great work! You called a DataFrame.
-    ❌ Oops - your data are not correct.
-    You earned 1 of 5 points for converting to Celcius
-
-
 **Creating a Function**
 
 
@@ -737,7 +628,7 @@ madison_df
 
 
 ```python
-# Subset the data to look at 1983-2023
+# Subsetting the data to look at 1972-2023
 madison_1971_2024 = madison_df.loc['1972-10-1':'2023-09']
 madison_1971_2024
 ```
@@ -861,37 +752,11 @@ madison_1971_2024
 
 
 
-
-```python
-# DO NOT MODIFY THIS TEST CELL
-tmax_df_resp = _
-points = 0
-
-if isinstance(tmax_df_resp, pd.DataFrame):
-    points += 1
-    print('\u2705 Great work! You called a DataFrame.')
-else:
-    print('\u274C Oops - make sure to call your DataFrame for testing.')
-
-summary = [round(val, 2) for val in tmax_df_resp.mean().values]
-if summary == [0.06, 55.67, 13.15]:
-    points += 4
-    print('\u2705 Great work! You correctly converted to Celcius.')
-else:
-    print('\u274C Oops - your data are not correct.')
-print('You earned {} of 5 points for converting to Celcius'.format(points))
-```
-
-    ✅ Great work! You called a DataFrame.
-    ❌ Oops - your data are not correct.
-    You earned 1 of 5 points for converting to Celcius
-
-
 **Calculating annual statistics**
 
 
 ```python
-# Resample the data to look at yearly mean values
+# Resampling the data to look at yearly mean values
 madison_yearly_mean = madison_1971_2024.resample('YS-OCT').mean()
 madison_yearly_mean
 ```
@@ -1298,9 +1163,8 @@ madison_yearly_mean
 
 
 ```python
-# Plot mean annual temperature values
-# Plot the data using .plot
-#import hvplot.pandas
+# Plotting mean annual temperature values
+# Plotting the data using .plot
 
 import matplotlib.pyplot as plt
 
@@ -1334,18 +1198,17 @@ plt.show()  # Display the plots
     
 
 
-## **About Wisconsin Plot** 📰 🗞️ 📻
+**About University of Wisconsin-Madison Station Temperature Plot** 📰 🗞️ 📻
 
 University of Wisconsin-Madison shows a warming trend with increased temperature fluctuations since 1980.
 Recent decades at the University of Wisconsin-Madison indicate a rise in mean annual temperatures, signaling a possible long-term climate shift.
 
 
+## **Converting into Markdown file to link with my GitHub bio page** 📰 🗞️ 📻
 
 ```python
 %%capture
 %%bash
-#jupyter nbconvert 01-dsc-open-science.ipynb --to markdown
-#converting into html 
 jupyter nbconvert "madison_timeseries.ipynb" --to markdown
 
 ```
