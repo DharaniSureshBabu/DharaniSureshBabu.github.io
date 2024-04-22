@@ -27,6 +27,13 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
+## 📚 ESIIL Data Short Course - Second Assignment
+
+- [Get Started with Open Reproducible Science!](/workspaces/shortcourse-01-get-started-DharaniSureshBabu/Open_Reproducible_Science.md)
+
+---
+
+
 ## 🎓 Education
 
 **Ph.D. in Horticultural Science / Computer Science**  
