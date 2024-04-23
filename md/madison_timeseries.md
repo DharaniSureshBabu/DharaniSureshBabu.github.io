@@ -37,14 +37,13 @@ Citation: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, 
 ```python
 import pandas as pd
 ```
+**University of Wisconsin Outline Map**
+
+[University of Wisconsin Outline Map](../images/uwm.html)
+
 **Loading the URL**
 
 Downloading daily summaries from the University of Wisconsin-Madison station, from 1971 to the present, to analyze precipitation and temperature trends using APIs from the National Centers for Environmental Information (NCEI), a part of the National Oceanic and Atmospheric Administration (NOAA) website.
-
-**University of Wisconsin Outline Map**
-
-[View the HTML content](../images/uwm.html)
-
 
 ```python
 uwm_url = (
