@@ -22,7 +22,7 @@ Advantages of clean code include:
 
 ------------------------------------------------------------------------
 
-## **Getting started with the Project**
+## **Getting Started with the Project**
 
 This project focuses on utilizing the National Centers for Environmental Information (NCEI) Access Data Service, which offers a RESTful application programming interface (API). This API allows users to access and subset data by applying a specific set of parameters to the version 1 (v1) URL. More information can be found here: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
 
@@ -37,7 +37,9 @@ Citation: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, 
 ```python
 import pandas as pd
 ```
-**Loading URL**
+**Loading the URL**
+
+Downloading daily summaries from the University of Wisconsin-Madison station, from 1971 to the present, to analyze precipitation and temperature trends using APIs from the National Centers for Environmental Information (NCEI), a part of the National Oceanic and Atmospheric Administration (NOAA) website.
 
 ```python
 uwm_url = (
@@ -320,7 +322,7 @@ madison_df
 
 ------------------------------------------------------------------------
 
-## Plotting the precpitation column (PRCP) vs time to explore the data
+## Plotting the Precpitation column (PRCP) and Observed Temperature( TOBS) vs Time to explore the data
 
 ```python
 madison_df.plot()
@@ -331,6 +333,7 @@ madison_df.plot()
     
 
 
+## Plotting the only the Precpitation column (PRCP) vs Time to explore the data
 
 ```python
 # Plot the data using .plot
@@ -347,7 +350,7 @@ madison_df.plot(
     
 
 
-**Converting to celsius - vectortized operation**
+**Converting to Celsius - a Vectortized Operation**
 
 
 ```python
@@ -469,7 +472,7 @@ madison_df
 
 
 
-**Creating a Function**
+**Another Efficient Method: Creating a "Function" to Convert the Observed Temperature Values From Fahrenheit to Celsius**
 
 
 ```python
@@ -477,9 +480,6 @@ madison_df
 def convert_to_celsius(fahrenheit):
     """Convert temperature from Fahrenheit to Celsius."""
     return (fahrenheit - 32) * 5 / 9
-
-# Assume 'dataframe' is your existing DataFrame and it has a column 'fahrenheit_column'
-# which contains temperature values in Fahrenheit.
 madison_df['celsius_column'] = madison_df['TOBS'].apply(convert_to_celsius)
 madison_df
 ```
@@ -611,7 +611,7 @@ madison_df
 
 
 
-**Subsetting and Resampling**
+**Next, Subsetting and Resampling**
 
 
 ```python
@@ -739,7 +739,7 @@ madison_1971_2024
 
 
 
-**Calculating annual statistics**
+**Getting into Action: Calculating Annual Statistics**
 
 
 ```python
@@ -1146,7 +1146,7 @@ madison_yearly_mean
 
 
 
-**Plotting resampled data**
+**Plotting the Resampled Data**
 
 
 ```python
