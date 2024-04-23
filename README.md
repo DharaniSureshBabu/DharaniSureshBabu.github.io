@@ -17,7 +17,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
-## 🌱 🤖Projects
+## 🌱 🤖 Ph.D. Projects
 
 | **How Can We Foresee the Unfolding Phases of Cranberries?** <br> _Cranberry Growth Stages Prediction using Advanced Deep Learning Models_ <br> Peering into the future of each cranberry, this project leverages the power of deep learning to predict the growth stages of cranberries, enabling timely and informed decisions throughout their cultivation cycle. | <img src="/images/GDD.jpg" width="65%" alt="Cranberry Growth Prediction"/> |
 |:---|:---:|
@@ -27,7 +27,10 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
-## 📚 Environmental Data Science Innovation and Inclusion Lab (ESIIL) Data Short Course
+## 📚 Additional Projects
+------
+
+📚 Environmental Data Science Innovation and Inclusion Lab (ESIIL) Data Short Course
 ---
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
 - 🌍 [Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
