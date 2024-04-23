@@ -43,6 +43,9 @@ Downloading daily summaries from the University of Wisconsin-Madison station, fr
 
 ---
 <embed type="text/html" src="images/uwm.html" width="600" height="600">
+
+[View the HTML content](images/uwm.html)
+
 ---
 
 ```python
