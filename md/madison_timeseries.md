@@ -1,17 +1,16 @@
-# Second Assigment - Get started with open reproducible science! (API version Challenge)
+# API Project - Get started with open reproducible science! 🔬🚀
 
 ------------------------------------------------------------------------
 
 1. **What is Open Reproducible Science?** - In my understanding, open reproducible science refers to the practice of conducting scientific research in a way that others can easily access, replicate, and validate the findings. This approach promotes transparency and accountability in research by making methodologies, data, and results freely available.
 
-2. **Git and GitHub** support open reproducible science by providing tools for version control and collaboration, allowing researchers to share their code, track changes, and manage contributions transparently. This infrastructure enables the scientific community to review, replicate, and build upon work, thus fostering a collaborative and open scientific environment.
+2. **Example: Git and GitHub** support open reproducible science by providing tools for version control and collaboration, allowing researchers to share their code, track changes, and manage contributions transparently. This infrastructure enables the scientific community to review, replicate, and build upon work, thus fostering a collaborative and open scientific environment.
 
+**What is Machine Readable Name** - The Jupyter Notebook file "Get Started with Open Reproducible Science!.ipynb" has a machine-readable name. The format ".ipynb" indicates it is a Jupyter Notebook, and the rest of the filename, though human-friendly with spaces and punctuation, is still readable by machines which can interpret it as a string for file operations and display purposes. **Renamed the filename as madison_timeseries** for easier understanding.
 
-> **Machine Readable Name** - Yes, the Jupyter Notebook file "Get Started with Open Reproducible Science!.ipynb" has a machine-readable name. The format ".ipynb" indicates it is a Jupyter Notebook, and the rest of the filename, though human-friendly with spaces and punctuation, is still readable by machines which can interpret it as a string for file operations and display purposes.
+## **Here are some suggestions for creating readable, well-documented scientific workflows that are easier to reproduce**
 
-## **Readable, well-documented scientific workflows are easier to reproduce**
-
-I can write clean code by:
+Write clean code by:
 1. **Using meaningful and descriptive names for variables, functions, and classes** to make the code easier to understand and maintain.
 2. **Keeping functions short and focused on a single task**, which enhances readability and simplifies debugging.
 3. **Consistently using comments and documentation** to explain the purpose and functionality of the code, aiding future maintainers and contributors.
@@ -23,19 +22,22 @@ Advantages of clean code include:
 
 ------------------------------------------------------------------------
 
-## **Getting started with the Assignment**
+## **Getting started with the Project**
+
+This project focuses on utilizing the National Centers for Environmental Information (NCEI) Access Data Service, which offers a RESTful application programming interface (API). This API allows users to access and subset data by applying a specific set of parameters to the version 1 (v1) URL. More information can be found here: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
 
 The Global Historical Climatology Network - Daily (GHCNd) is maintained by the National Climatic Data Center (NCDC), part of the National Oceanic and Atmospheric Administration (NOAA). The dataset includes daily climate records from thousands of land-based stations worldwide, spanning from the mid-1700s to the present. Temperatures in the GHCNd are primarily recorded in degrees Celsius, though historical data may also include records in Fahrenheit. Data are collected using standardized instruments and techniques at meteorological stations globally, ensuring consistency and reliability across measurements.
 
 Citation: Menne, M.J., I. Durre, B. Korzeniewski, S. McNeal, K. Thomas, X. Yin, S. Anthony, R. Ray, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012d: Global Historical Climatology Network - Daily (GHCN-Daily), Version 3. NOAA National Climatic Data Center. [http://doi.org/10.7289/V5D21VHZ](http://doi.org/10.7289/V5D21VHZ).
-```
----------------------
-**Programming Part Begins**
----------------------
-**Renamed as madison_timeseries**
+
+------------------------------------------------------------------------
+
+## **Programming Part Begins**
+
 ```python
 import pandas as pd
 ```
+**Loading URL**
 
 ```python
 uwm_url = (
@@ -324,14 +326,6 @@ madison_df
 madison_df.plot()
 ```
 
-
-
-
-    <Axes: xlabel='DATE'>
-
-
-
-
     
 ![png](madison_timeseries_19_1.png)
     
@@ -346,13 +340,6 @@ madison_df.plot(
     xlabel='Date ',
     ylabel='Precipitation in (mm)')
 ```
-
-
-
-
-    <Axes: title={'center': 'UWM-Precipitation'}, xlabel='Date ', ylabel='Precipitation in (mm)'>
-
-
 
 
     
@@ -1204,7 +1191,7 @@ University of Wisconsin-Madison shows a warming trend with increased temperature
 Recent decades at the University of Wisconsin-Madison indicate a rise in mean annual temperatures, signaling a possible long-term climate shift.
 
 
-## **Converting into Markdown file to link with my GitHub bio page** 📰 🗞️ 📻
+## **Converting into Markdown file to link with my GitHub bio page** ⭐
 
 ```python
 %%capture
