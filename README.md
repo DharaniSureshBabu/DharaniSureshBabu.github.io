@@ -27,11 +27,10 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
-## 📚 ESIIL Data Short Course - Second Assignment
+## 📚 Environmental Data Science Innovation and Inclusion Lab (ESIIL) Data Short Course
 ---
-
-- [Madison Time Series MD Assignment!](md/madison_timeseries.md)
-
+- 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
+- 🌍 [Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
 ---
 
 ## 🎓 Education
