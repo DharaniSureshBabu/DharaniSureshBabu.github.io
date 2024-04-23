@@ -33,7 +33,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
 - 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
-
+  
 ---
 
 ## 🎓 Education
@@ -130,6 +130,3 @@ processes to achieve sustainability
 For collaborations or inquiries, please reach out:
 **LinkedIn**: [dharanisuresh](https://www.linkedin.com/in/dharanisuresh)  
 
----
-<embed type="text/html" src="images/uwm.html" width="600" height="600">
----
