@@ -32,7 +32,7 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 **Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
 
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
-- 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Drought Conditions - Link to appear soon] 📡
+- 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Vegetation Conditions - Link to appear soon] 📡
   
 ---
 
