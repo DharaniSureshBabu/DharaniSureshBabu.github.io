@@ -27,14 +27,18 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
+## 📚Education Material
+Whether you’re a seasoned scientist, an enthusiastic educator, or a curious student, this material insight offer a starting point for anyone eager to explore the interplay of technology and nature. Let’s embark on this educational adventure together, unlocking the power of open data and reproducible science to make a lasting impact on our understanding of the world around us.
+ 
+- 🌍[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/cranberry_creek_vegetation.md)📡  
+---
+
 ## 📚 Additional Projects
 
 **Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
 
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
 - 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Vegetation Conditions](md/vegetation.md)📡
-- 🌍[Project 3: Analyzing Cranberry Marsh Vegetation Conditions using AQUA MODIS](md/cranberry_creek_vegetation.md)📡
-
 ---
 
 ## 🎓 Education
