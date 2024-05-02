@@ -1,4 +1,4 @@
-<span style="color:green; font-size:40px;"> 🛰️🌍 **Data from Above, Delve and Discover: Unveiling Earth's Veil with NASA's Tools** 🛰️🌍</span>
+<span style="color:green; font-size:40px;"> 🛰️🌍 **Data from Above, Delve and Discover: Unveiling Earth's Veil with NASA's Tools** 🛰️🌍by Dharani </span>
 
 Welcome to a journey through the vast expanse of Earth's data landscapes, where cutting-edge technology meets the open frontiers of science! In this guide, you'll dive into the powerful interfaces of APIs, including NASA's AρρEEARS platform, to retrieve and manipulate satellite data that illuminate our understanding of the planet. This page is your gateway to mastering the art of data-driven discoveries in environmental and climate research. Prepare to unlock the secrets of the Earth through:
 
