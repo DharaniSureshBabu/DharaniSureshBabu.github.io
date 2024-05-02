@@ -27,10 +27,10 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 ---
 
-## 📚Education Material
+## 💡Education Material 🛰️🌱
 Whether you’re a seasoned scientist, an enthusiastic educator, or a curious student, this material insight offer a starting point for anyone eager to explore the interplay of technology and nature. Let’s embark on this educational adventure together, unlocking the power of open data and reproducible science to make a lasting impact on our understanding of the world around us.
  
-- 🌍[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/cranberry_creek_vegetation.md)📡  
+- 🛰️[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/cranberry_creek_vegetation.md)🌍
 ---
 
 ## 📚 Additional Projects
