@@ -33,7 +33,8 @@ Join me in exploring cutting-edge innovations that nurture our crops and communi
 
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
 - 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Vegetation Conditions](md/vegetation.md)📡
-  
+- 🌍[Project 3: Analyzing Cranberry Marsh Vegetation Conditions using AQUA MODIS](md/cranberry_creek_vegetation.md)📡
+
 ---
 
 ## 🎓 Education
