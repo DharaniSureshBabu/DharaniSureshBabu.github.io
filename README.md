@@ -39,6 +39,7 @@ Whether you’re a seasoned scientist, an enthusiastic educator, or a curious st
 
 - 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
 - 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Vegetation Conditions](md/vegetation.md)📡
+- [Project 2: Accessing MODIS Spatial Data and Analyzing WI Vegetation Conditions](md/wi_ndvi_part1.md)📡
 ---
 
 ## 🎓 Education
