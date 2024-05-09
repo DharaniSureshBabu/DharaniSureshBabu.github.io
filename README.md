@@ -23,7 +23,6 @@ Whether you're a seasoned scientist, an enthusiastic educator, or a curious stud
 Let's embark on this educational journey together, unlocking the power of open data and reproducible science to significantly impact our understanding of the world. For more details, please click the link below:
  
 🛰️[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/finley_vegetation_wo_md_cmd.md)🌍
-
 ---
 
 ## 🌱 🤖 Ph.D. Projects
@@ -81,6 +80,28 @@ Innovated algorithms and digital image processing programs for agricultural appl
 
 ---
 
+## 💡Technology Entrepreneurship Training                                                                                                                    
+Selected Morgridge Entrepreneurial Bootcamp, enhancing my tech entrepreneurship skills and strategic understanding for opportunity development, Jun 2024
+
+---
+
+## 💼 Current Leadership Experience
+- Science Mentor, Frontiers for Young Minds in the Engineering and Technology, Feb 2024 – Present
+- Mentorship Opportunities in Science & Agriculture for Individuals of Color (MOSAIC) Mentor, UW-Madison, USA, Sep 2023 – Present       
+- Equity, Diversity, and Inclusion Committee Member, University of Wisconsin-Madison, Madison, WI, USA, Sep 2023 – Present       
+- Chair-Elect, AHIS- American Society for Horticultural Science (ASHS), USA, Aug 2023 – Present
+- International Reach Ambassador, International Student Services, University of Wisconsin-Madison, Madison, WI, USA, May 2023 – Present       
+
+---
+
+## 🌐 Research Outreach Activities
+-	Engage annually with 500 growers at Wisconsin Cranberry Research Station's Field Day, updating on cranberry cultivation technologies.
+-	Developed educational resources for 1,000+ growers on remote sensing in cranberry production, including a video and journal article.
+-	Maintain regular interaction with cranberry farmers to tailor research to real-world needs, promoting data-driven practices.
+-	Led farmer training on dryland crop cultivation at Crop Physiology Department, ICRISAT - CGIAR, India.
+
+---
+
 ## 🏅 International Awards
 
 - **Gerald O. Mott Award in Crop Science, March 2023,** awarded by the American Society of Agronomy, Crop Science Society of America, and Soil 
@@ -107,10 +128,20 @@ processes to achieve sustainability
 
 ---
 
+## 🛩 Pilot License
+
+Unmanned Aerial System (Drone) Remote Pilot, Federal Aviation Administration, USA, Sep 2020
+
+---
+
 ## 🎖 Certifications
 
 - AWS Machine Learning, Amazon Web Service (Coursera), Aug 2022
 - Deep Learning with NVIDIA, NVIDIA Deep Learning Institute, Jul 2022
+- Machine Learning Specialization, Stanford University (DeepLearning.AI and Stanford), May 2022
+- Interfacing with Raspberry Pi, University of Irvine, CA (Coursera), Jul 2021
+- Python Specialization, University of Michigan (Coursera), June 2019
+- ArcGIS Spatial Analyst certification, Indian Geoinformatics Centre, India, Apr 2013
 
 ---
 
@@ -119,6 +150,9 @@ processes to achieve sustainability
 - **Crop Modeling Software**: APSIM, DSSAT, SSM-iLegume
 - **GIS & Remote Sensing Software**: ArcGIS, ENVI, Quantum GIS
 - **Programming Languages**: R, Java, Python
+- **Image processing software**: ImageJ, Pix4D
+- **Project Management**: Jira, Confluence
+- **Version Control Platform**: GitHub, Source Tree
 
 ---
 
@@ -132,6 +166,22 @@ processes to achieve sustainability
 - Mentorship
 - Leadership
 - Clifton Strength assessment: Achiever, Strategic, Learner, Focus, Relator 
+
+---
+
+## 📚 Scholarly and Professional Contributions Summary
+
+| Category                     | Value |
+|------------------------------|-------|
+| Citations                    | 77    |
+| Reviewed Articles            | 3     |
+| Published Journal Articles   | 2     |
+| Magazine Article             | 1     |
+| Outreach Journal Articles    | 3     |
+| Thesis Publication           | 1     |
+| Conference Presentations     | 30    |
+| International Invited Talk   | 1     |
+| Educational Content          | 1     |
 
 ---
 
