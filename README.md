@@ -22,7 +22,7 @@ Whether you're a seasoned scientist, an enthusiastic educator, or a curious stud
 
 Let's embark on this educational journey together, unlocking the power of open data and reproducible science to significantly impact our understanding of the world. For more details, please click the link below:
  
-🛰️[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/finley_vegetation.md)🌍
+🛰️[Data from Above, Delve and Discover: Unveiling Earth’s Veil with NASA’s Tools](md/finley_vegetation wo md cmd.md)🌍
 
 ---
 
