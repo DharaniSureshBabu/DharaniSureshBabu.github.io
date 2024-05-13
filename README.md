@@ -187,8 +187,6 @@ Unmanned Aerial System (Drone) Remote Pilot, Federal Aviation Administration, US
 For collaborations or inquiries, please reach out:
 **LinkedIn**: [dharanisuresh](https://www.linkedin.com/in/dharanisuresh)  
 
----
-
 Thank you for dropping by my repository of innovation and growth. Let's sow the seeds of change together! 
 
 ---
