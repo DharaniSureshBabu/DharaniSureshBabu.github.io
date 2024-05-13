@@ -5,7 +5,7 @@
 ## 🌿 Greetings Fellow Agritech Enthusiasts!
 Hello there! I'm Dharani Suresh. As a dedicated researcher in digital agriculture, I am passionate about the intersection where information technology meets the art of farming. With over 9+ years of research experience in science and engineering, I work at the forefront of developing technologies that drive the future of sustainable agriculture and precision farming. I specialize in crafting deep learning models, crop simulation modeling, geospatial analysis, and computer vision techniques. My mission is to devise precision and sustainable agricultural solutions that align with the industry's best practices and sustainability goals.
 
-## Cultivating Growth with Technology
+## 🌾Cultivating Growth with Technology
 
 Agriculture is not just about sowing seeds; it's about growing ideas and harvesting better solutions. As a digital agriculture enthusiast, I delve into the data that makes our fields flourish and help agribusinesses thrive in a digital era. From precision farming to sustainable agri-tech, I am passionate about leveraging technology to enhance productivity, profitability, and environmental stewardship in the agricultural sector. 
 
@@ -125,9 +125,9 @@ processes to achieve sustainability
 
 ---
 
-## 🛩 Pilot License
+## 🛩 Drone Pilot License
 
-Unmanned Aerial System (Drone) Remote Pilot, Federal Aviation Administration, USA, Sep 2020
+Unmanned Aerial System (Drone) FAA Part 107 Remote Pilot License, Federal Aviation Administration, USA.
 
 ---
 
